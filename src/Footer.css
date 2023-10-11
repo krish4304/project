@@ -1,0 +1,21 @@
+
+section{
+    padding-top: 300px;
+    width: 100%;
+
+}
+header{
+    position: fixed;
+    width: 100%;
+    background-color: aqua;
+    font-size: x-large;
+    font-weight: bold;
+}
+footer{
+    
+    position:fixed;
+    bottom:0;
+    width:100%;
+    background-color: black;
+    color: white;
+}
